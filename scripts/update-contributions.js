@@ -6,8 +6,8 @@ const axios = require("axios")
 
 // --- Configuration Variables ---
 // Change these values to match your GitHub profile and history.
-const GITHUB_USERNAME = "adiati98" //Change this to your GitHub username
-const SINCE_YEAR = 2019 //Change this to the first year of your contribution
+const GITHUB_USERNAME = "sqrcz" //Change this to your GitHub username
+const SINCE_YEAR = 2023 //Change this to the first year of your contribution
 const BASE_URL = "https://api.github.com"
 
 // --- Configuration to generate README in the contributions folder ---
@@ -212,7 +212,7 @@ async function fetchContributions(startYear, prCache) {
 				mergedAt: pr.pull_request.merged_at,
 				reviewPeriod: Math.round(
 					(new Date(pr.pull_request.merged_at) - new Date(pr.created_at)) /
-						(1000 * 60 * 60 * 24)
+					(1000 * 60 * 60 * 24)
 				),
 			})
 			// Add the URL to the seen set for this run.
@@ -234,9 +234,9 @@ async function fetchContributions(startYear, prCache) {
 			const closingPeriod =
 				issue.state === "closed"
 					? Math.round(
-							(new Date(issue.closed_at) - new Date(issue.created_at)) /
-								(1000 * 60 * 60 * 24)
-					  )
+						(new Date(issue.closed_at) - new Date(issue.created_at)) /
+						(1000 * 60 * 60 * 24)
+					)
 					: "Open"
 
 			contributions.issues.push({
@@ -305,7 +305,7 @@ async function fetchContributions(startYear, prCache) {
 					mergePeriod =
 						Math.round(
 							(new Date(mergedAt) - new Date(pr.created_at)) /
-								(1000 * 60 * 60 * 24)
+							(1000 * 60 * 60 * 24)
 						) + " days"
 				} else if (pr.state === "closed" && pr.merged_at) {
 					// Fallback if the search result itself has the merged_at property.
@@ -313,7 +313,7 @@ async function fetchContributions(startYear, prCache) {
 					mergePeriod =
 						Math.round(
 							(new Date(mergedAt) - new Date(pr.created_at)) /
-								(1000 * 60 * 60 * 24)
+							(1000 * 60 * 60 * 24)
 						) + " days"
 				} else if (pr.state === "closed") {
 					// If the PR is closed but not merged, we can't calculate a merge period.
@@ -332,7 +332,7 @@ async function fetchContributions(startYear, prCache) {
 					myFirstReviewPeriod =
 						Math.round(
 							(new Date(myFirstReviewDate) - new Date(pr.created_at)) /
-								(1000 * 60 * 60 * 24)
+							(1000 * 60 * 60 * 24)
 						) + " days"
 				}
 
@@ -615,11 +615,10 @@ ${index + 1}. [**${item[0]}**](${repoUrl}) (${item[1]} contributions)`
 							: "N/A"
 						tableContent += `      <td>${createdAt}</td>\n`
 						tableContent += `      <td>${closedAt}</td>\n`
-						tableContent += `      <td>${
-							item.closingPeriod === "Open"
-								? "Open"
-								: `${item.closingPeriod} days`
-						}</td>\n`
+						tableContent += `      <td>${item.closingPeriod === "Open"
+							? "Open"
+							: `${item.closingPeriod} days`
+							}</td>\n`
 					} else if (section === "reviewedPrs") {
 						const createdAt = new Date(item.createdAt)
 							.toISOString()
@@ -663,7 +662,7 @@ ${index + 1}. [**${item[0]}**](${repoUrl}) (${item[1]} contributions)`
 }
 
 /**
- * Calculates aggregate totals from all contribution data and writes the 
+ * Calculates aggregate totals from all contribution data and writes the
  * contributions/README.md file.
  * @param {object} finalContributions The object with all contributions, grouped by type.
  */
