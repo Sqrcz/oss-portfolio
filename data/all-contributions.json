@@ -1,0 +1,1278 @@
+{
+  "pullRequests": [
+    {
+      "title": "chore: release v0.2.2",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/410",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-10-01T22:09:40Z",
+      "mergedAt": "2025-10-01T22:30:12Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: refactoring and dependency updates",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/409",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-10-01T21:51:23Z",
+      "mergedAt": "2025-10-01T22:04:42Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "maintenance - unnecessary eslint-disable removed",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/376",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-30T16:43:26Z",
+      "mergedAt": "2025-04-30T19:41:36Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Chore: release v0.2.1",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/371",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-17T17:44:13Z",
+      "mergedAt": "2025-04-17T18:02:56Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Chore: dependency updates and simple refactoring",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/369",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-17T12:32:42Z",
+      "mergedAt": "2025-04-17T12:38:36Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Refactor FwbCheckbox – Improved Styling & Group Support",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/368",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-17T11:25:19Z",
+      "mergedAt": "2025-04-17T12:31:24Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Feature: Improved FwbInput component flexibility",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/365",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-09T15:10:12Z",
+      "mergedAt": "2025-04-16T23:14:46Z",
+      "reviewPeriod": 7
+    },
+    {
+      "title": "chore: release v0.2.0",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/361",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-19T21:50:56Z",
+      "mergedAt": "2025-03-19T21:54:39Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: upgrade to tailwind v4",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/360",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-17T08:50:26Z",
+      "mergedAt": "2025-03-19T21:41:59Z",
+      "reviewPeriod": 3
+    },
+    {
+      "title": "Refactoring and fixes for FwbPagination component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/359",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-13T01:15:47Z",
+      "mergedAt": "2025-03-13T09:46:31Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fixed outdated FwbAvatar documentation",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/358",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-21T09:12:24Z",
+      "mergedAt": "2025-02-21T09:17:13Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v0.1.9",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/357",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-21T00:56:28Z",
+      "mergedAt": "2025-02-21T00:57:57Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "entry points fixed for type: module",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/356",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-21T00:52:40Z",
+      "mergedAt": "2025-02-21T00:52:51Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v0.1.8",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/355",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-21T00:04:47Z",
+      "mergedAt": "2025-02-21T00:06:55Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "maintenance: minor fixes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/353",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-19T09:47:53Z",
+      "mergedAt": "2025-02-19T10:06:12Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Feature: improved Accordion component flexibility",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/351",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-19T01:26:29Z",
+      "mergedAt": "2025-02-19T09:37:00Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feature:  import order and sort linter added",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/346",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-26T19:15:26Z",
+      "mergedAt": "2025-01-31T12:11:42Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "feature: TailwindCSS linter added",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/345",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-26T09:36:41Z",
+      "mergedAt": "2025-01-31T12:00:58Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "chore:  dependency update",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/344",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-25T09:17:58Z",
+      "mergedAt": "2025-01-31T11:51:17Z",
+      "reviewPeriod": 6
+    },
+    {
+      "title": "fixed type check error in Tabs component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/342",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-23T09:08:50Z",
+      "mergedAt": "2025-01-23T19:41:39Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v0.1.7",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/341",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-21T10:05:08Z",
+      "mergedAt": "2025-01-21T10:05:20Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Fix #310 - Toast shadow not visible",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/340",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-16T13:03:30Z",
+      "mergedAt": "2025-01-21T09:29:56Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "Feature/custom dropdown classes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/339",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-16T06:59:11Z",
+      "mergedAt": "2025-01-21T09:20:53Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "chore: release v0.1.6",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/318",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-19T23:57:34Z",
+      "mergedAt": "2024-08-20T00:00:29Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v0.1.5",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/288",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-05-28T23:23:10Z",
+      "mergedAt": "2024-05-28T23:24:48Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: dependency update and minor fixes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/287",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-05-28T22:55:39Z",
+      "mergedAt": "2024-05-28T23:10:33Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v0.1.4",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/283",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-29T12:28:58Z",
+      "mergedAt": "2024-04-29T12:29:03Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Fix/issue #280",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/281",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-25T14:28:33Z",
+      "mergedAt": "2024-04-29T12:05:26Z",
+      "reviewPeriod": 4
+    },
+    {
+      "title": "flowbite-vue added",
+      "url": "https://github.com/Sqrcz/playground-flowbite-vue/pull/1",
+      "repo": "Sqrcz/playground-flowbite-vue",
+      "date": "2024-04-24T12:02:15Z",
+      "mergedAt": "2024-04-24T12:06:41Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fixed wrong component names in the docs",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/272",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-21T14:29:18Z",
+      "mergedAt": "2024-02-26T09:34:28Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "fix/reactivity of button classes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/271",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-15T15:39:08Z",
+      "mergedAt": "2024-02-21T08:45:08Z",
+      "reviewPeriod": 6
+    },
+    {
+      "title": "added missing quickstart step",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/270",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-15T14:18:03Z",
+      "mergedAt": "2024-02-21T08:45:40Z",
+      "reviewPeriod": 6
+    },
+    {
+      "title": "Feature/avatar updates",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/258",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-12-14T01:49:47Z",
+      "mergedAt": "2023-12-15T10:43:59Z",
+      "reviewPeriod": 1
+    },
+    {
+      "title": "Feature/paragraph updates",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/257",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-12-13T13:40:10Z",
+      "mergedAt": "2023-12-18T07:57:06Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "Feature/twmerge as composable",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/250",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-15T12:30:16Z",
+      "mergedAt": "2023-12-05T16:00:44Z",
+      "reviewPeriod": 20
+    },
+    {
+      "title": "fix-issue-#246-pagination-error",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/248",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-10T19:56:52Z",
+      "mergedAt": "2023-11-15T08:11:10Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "fix/issue-#234-trailing-space",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/247",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-10T13:45:56Z",
+      "mergedAt": "2023-11-15T08:10:55Z",
+      "reviewPeriod": 5
+    },
+    {
+      "title": "Fwb rename - few fixes after component review",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/237",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-10-20T11:37:21Z",
+      "mergedAt": "2023-10-23T12:11:53Z",
+      "reviewPeriod": 3
+    },
+    {
+      "title": "Refactor make linting more strict",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/231",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-10-16T23:00:41Z",
+      "mergedAt": "2023-10-18T16:05:17Z",
+      "reviewPeriod": 2
+    },
+    {
+      "title": "WIP: Refactor to make linting more strict",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/202",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-09-20T11:46:57Z",
+      "mergedAt": "2023-10-09T15:26:49Z",
+      "reviewPeriod": 19
+    },
+    {
+      "title": "fix: linting script",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/201",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-09-19T13:43:09Z",
+      "mergedAt": "2023-09-19T16:32:06Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Typo fix in README.md",
+      "url": "https://github.com/filrak/vue-offline/pull/17",
+      "repo": "filrak/vue-offline",
+      "date": "2019-09-30T07:30:04Z",
+      "mergedAt": "2019-10-24T10:55:47Z",
+      "reviewPeriod": 24
+    },
+    {
+      "title": "minor updated",
+      "url": "https://github.com/Merk87/gulp-cache-hyper-bust/pull/1",
+      "repo": "Merk87/gulp-cache-hyper-bust",
+      "date": "2019-01-03T15:49:37Z",
+      "mergedAt": "2019-01-04T00:01:17Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "overlay fix",
+      "url": "https://github.com/mleko/react-load-overlay/pull/1",
+      "repo": "mleko/react-load-overlay",
+      "date": "2017-03-15T09:58:45Z",
+      "mergedAt": "2017-03-15T10:00:11Z",
+      "reviewPeriod": 0
+    }
+  ],
+  "issues": [
+    {
+      "title": "Eslint warning: 'ring-3 is not a Tailwind CSS class!'",
+      "url": "https://github.com/themesberg/flowbite/issues/1025",
+      "repo": "themesberg/flowbite",
+      "date": "2025-01-26T07:45:58Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "Progress bar component with label inside doesn't support small % values.",
+      "url": "https://github.com/themesberg/flowbite/issues/1016",
+      "repo": "themesberg/flowbite",
+      "date": "2025-01-09T10:02:45Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "Not every `<style>` should be `scoped`",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/280",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-25T14:22:50Z",
+      "closedAt": "2024-04-29T12:05:27Z",
+      "closingPeriod": 4
+    },
+    {
+      "title": "Missing information about css import in the Quickstart guide",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/269",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-15T14:14:58Z",
+      "closedAt": "2024-04-23T13:26:05Z",
+      "closingPeriod": 68
+    },
+    {
+      "title": "Global component import",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/193",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-09-13T14:50:00Z",
+      "closedAt": "2023-09-13T17:03:54Z",
+      "closingPeriod": 0
+    },
+    {
+      "title": "General error: 1215 Cannot add foreign key constraint",
+      "url": "https://github.com/antonioribeiro/tracker/issues/186",
+      "repo": "antonioribeiro/tracker",
+      "date": "2016-08-23T23:57:01Z",
+      "closedAt": "2016-08-24T03:02:52Z",
+      "closingPeriod": 0
+    }
+  ],
+  "reviewedPrs": [
+    {
+      "title": "Fix FwbInput label/input connection",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/405",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-10-01T16:24:08Z",
+      "createdAt": "2025-08-06T08:07:34Z",
+      "mergedAt": "2025-10-01T16:24:08Z",
+      "mergePeriod": "56 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fixed image sizing bug in avatar component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/407",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-09-29T08:03:41Z",
+      "createdAt": "2025-09-25T12:48:36Z",
+      "mergedAt": "2025-09-28T18:18:42Z",
+      "mergePeriod": "3 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Close modal on esc keypress even when focusTrap is enabled",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/408",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-09-28T18:16:54Z",
+      "createdAt": "2025-09-27T11:59:41Z",
+      "mergedAt": "2025-09-28T18:15:52Z",
+      "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: Banner components",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/317",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-08-30T17:38:56Z",
+      "createdAt": "2024-08-07T13:09:02Z",
+      "mergedAt": null,
+      "mergePeriod": "Closed",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Add support for custom colors to `FwbProgress` and `FwbSpinner`",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/393",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-08-01T21:33:07Z",
+      "createdAt": "2025-05-22T12:24:10Z",
+      "mergedAt": "2025-08-01T21:33:07Z",
+      "mergePeriod": "71 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: add Autocomplete component with examples and documentation",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/400",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-08-01T21:24:10Z",
+      "createdAt": "2025-07-14T09:01:22Z",
+      "mergedAt": "2025-08-01T21:24:10Z",
+      "mergePeriod": "19 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat(FwbInput): Add direct error message support",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/362",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-30T18:15:30Z",
+      "createdAt": "2025-03-26T17:00:47Z",
+      "mergedAt": null,
+      "mergePeriod": "Open",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: Label appearance problem in Textarea component #391",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/392",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-18T12:20:49Z",
+      "createdAt": "2025-05-20T14:28:30Z",
+      "mergedAt": "2025-07-18T12:20:48Z",
+      "mergePeriod": "59 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: The gap problem in the Toggle component #388",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/389",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-18T12:15:09Z",
+      "createdAt": "2025-05-16T11:19:14Z",
+      "mergedAt": "2025-07-18T12:14:29Z",
+      "mergePeriod": "63 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Ensure hover list items with icons do not wrap",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/387",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-18T11:13:29Z",
+      "createdAt": "2025-05-14T13:45:03Z",
+      "mergedAt": "2025-07-18T11:13:29Z",
+      "mergePeriod": "65 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: Card width issue #383",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/384",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-18T10:04:52Z",
+      "createdAt": "2025-05-11T06:54:46Z",
+      "mergedAt": "2025-07-18T10:04:52Z",
+      "mergePeriod": "68 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Improve file handling and layout for file inputs",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/379",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T17:17:23Z",
+      "createdAt": "2025-05-01T16:45:34Z",
+      "mergedAt": "2025-05-06T17:07:36Z",
+      "mergePeriod": "5 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix: Improved first last buttons behavior in pagination component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/364",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T16:53:30Z",
+      "createdAt": "2025-04-01T13:00:10Z",
+      "mergedAt": "2025-05-06T16:53:30Z",
+      "mergePeriod": "35 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Refactor alert examples to use `FwbButton`",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/377",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T16:51:27Z",
+      "createdAt": "2025-05-01T07:35:44Z",
+      "mergedAt": "2025-05-06T16:48:18Z",
+      "mergePeriod": "5 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fixed a bug with model type in Input component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/372",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T16:50:24Z",
+      "createdAt": "2025-04-24T13:25:53Z",
+      "mergedAt": "2025-05-06T16:50:24Z",
+      "mergePeriod": "12 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix for Button Light Arrangement for Dark Mode #380",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/381",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T16:12:18Z",
+      "createdAt": "2025-05-05T11:28:50Z",
+      "mergedAt": "2025-05-06T16:12:18Z",
+      "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Improve text selection handling in FwbCheckbox label",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/378",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-02T08:11:23Z",
+      "createdAt": "2025-05-01T09:44:24Z",
+      "mergedAt": "2025-05-02T07:40:55Z",
+      "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "change linkClasses in FwbNavbarLink to be computed rather than only evaluated on mount to resolve #373",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/375",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-30T19:41:39Z",
+      "createdAt": "2025-04-25T15:53:19Z",
+      "mergedAt": "2025-04-30T19:41:39Z",
+      "mergePeriod": "5 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat(list-group-item): add active prop",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/370",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-17T18:01:39Z",
+      "createdAt": "2025-04-17T14:54:02Z",
+      "mergedAt": "2025-04-17T17:32:38Z",
+      "mergePeriod": "0 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "refactor: expose `isOpen` to use in `arrow-icon` slot",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/256",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-13T13:04:55Z",
+      "createdAt": "2023-12-13T10:26:04Z",
+      "mergedAt": "2025-03-13T13:04:55Z",
+      "mergePeriod": "456 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: Add label and icon for first and last buttons in FwbPagination.vue",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/324",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-12T20:41:31Z",
+      "createdAt": "2024-09-14T11:30:59Z",
+      "mergedAt": "2025-03-12T20:41:31Z",
+      "mergePeriod": "179 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "modelValue set to be optional in FwbInput",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/343",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-12T20:25:07Z",
+      "createdAt": "2025-01-24T11:49:40Z",
+      "mergedAt": "2025-03-12T20:25:07Z",
+      "mergePeriod": "47 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: Label added for FileInput dropzone",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/304",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-03-11T13:29:41Z",
+      "createdAt": "2024-07-24T08:35:23Z",
+      "mergedAt": "2025-03-11T10:56:32Z",
+      "mergePeriod": "230 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fixed the icon placeholder position in FwbAvatar",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/350",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-19T10:20:40Z",
+      "createdAt": "2025-02-14T13:06:31Z",
+      "mergedAt": "2025-02-19T10:20:40Z",
+      "mergePeriod": "5 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix(badge): dark mode badge colours to match flowbite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/347",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-31T12:14:40Z",
+      "createdAt": "2025-01-30T15:47:15Z",
+      "mergedAt": "2025-01-31T12:14:40Z",
+      "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fixed some typos",
+      "url": "https://github.com/Sqrcz/flowbite-vue/pull/1",
+      "repo": "Sqrcz/flowbite-vue",
+      "date": "2025-01-21T09:19:15Z",
+      "createdAt": "2025-01-17T05:34:20Z",
+      "mergedAt": "2025-01-21T09:19:14Z",
+      "mergePeriod": "4 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Add disabled state to dropdown trigger button",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/338",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-16T06:00:15Z",
+      "createdAt": "2025-01-10T05:54:23Z",
+      "mergedAt": "2025-01-16T06:00:15Z",
+      "mergePeriod": "6 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Improved input layout to support proper positioning for right-to-left languages",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/322",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-09T10:34:08Z",
+      "createdAt": "2024-09-06T07:21:43Z",
+      "mergedAt": "2025-01-09T10:34:08Z",
+      "mergePeriod": "125 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: Fixed display of 0% inside label in progress bar",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/326",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-09T10:10:00Z",
+      "createdAt": "2024-09-30T10:49:34Z",
+      "mergedAt": null,
+      "mergePeriod": "Open",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix(alert): make props reactive",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/320",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T20:08:42Z",
+      "createdAt": "2024-09-02T10:09:44Z",
+      "mergedAt": "2025-01-08T19:09:12Z",
+      "mergePeriod": "128 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: FwbCard: Removed hover on non-links cards",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/321",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T19:06:36Z",
+      "createdAt": "2024-09-06T06:09:18Z",
+      "mergedAt": "2025-01-08T19:06:36Z",
+      "mergePeriod": "125 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: FwbInput: Split input and block classes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/325",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T17:28:11Z",
+      "createdAt": "2024-09-17T14:19:14Z",
+      "mergedAt": "2025-01-08T17:28:10Z",
+      "mergePeriod": "113 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix FWBInput does not support v-model.number (#273)",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/327",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-07T20:10:23Z",
+      "createdAt": "2024-10-02T08:39:37Z",
+      "mergedAt": "2025-01-07T20:10:23Z",
+      "mergePeriod": "97 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Add support for grouping dropdowns and buttons together in button group",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/331",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-07T20:07:38Z",
+      "createdAt": "2024-11-26T05:54:34Z",
+      "mergedAt": "2025-01-07T20:07:38Z",
+      "mergePeriod": "43 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix: dropdown.md documentation (close inside example, slots)",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/333",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-07T15:08:56Z",
+      "createdAt": "2024-11-26T12:46:51Z",
+      "mergedAt": "2025-01-07T15:08:56Z",
+      "mergePeriod": "42 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat(FwbDropdown): Add color prop to dropdown component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/335",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-07T15:04:13Z",
+      "createdAt": "2024-12-05T15:00:21Z",
+      "mergedAt": "2025-01-07T15:04:13Z",
+      "mergePeriod": "33 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: add support for using tooltips on buttons that are inside a but…",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/336",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-07T15:03:14Z",
+      "createdAt": "2024-12-10T15:41:37Z",
+      "mergedAt": "2025-01-07T15:03:14Z",
+      "mergePeriod": "28 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix: add required prop",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/329",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-12-06T14:35:56Z",
+      "createdAt": "2024-10-03T08:24:02Z",
+      "mergedAt": "2024-12-06T14:35:56Z",
+      "mergePeriod": "64 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "doc update",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/334",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-12-02T12:25:22Z",
+      "createdAt": "2024-12-02T11:34:46Z",
+      "mergedAt": "2024-12-02T12:25:22Z",
+      "mergePeriod": "0 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: Added property to align dropdown context with the trigger",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/282",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-09-17T14:55:58Z",
+      "createdAt": "2024-04-26T12:50:31Z",
+      "mergedAt": "2024-04-29T12:10:14Z",
+      "mergePeriod": "3 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "refactor: Update disabledClasses in FwbPagination.vue",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/319",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-20T10:31:37Z",
+      "createdAt": "2024-08-20T10:15:55Z",
+      "mergedAt": "2024-08-20T10:31:36Z",
+      "mergePeriod": "0 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "#298 Adjust type of prop 'link' of FwbSidebarItem.vue",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/299",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-20T05:50:34Z",
+      "createdAt": "2024-07-03T14:43:25Z",
+      "mergedAt": "2024-08-19T23:38:56Z",
+      "mergePeriod": "47 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat(dropdown): add show/hide events",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/301",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-19T12:29:33Z",
+      "createdAt": "2024-07-11T08:57:59Z",
+      "mergedAt": "2024-08-02T23:54:37Z",
+      "mergePeriod": "23 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: Fixed issue with AccordionPanel onUnmounted callback",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/303",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-13T10:46:46Z",
+      "createdAt": "2024-07-15T17:54:27Z",
+      "mergedAt": "2024-08-02T23:28:22Z",
+      "mergePeriod": "18 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Add autocomplete property",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/285",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-10T13:34:14Z",
+      "createdAt": "2024-05-18T01:48:47Z",
+      "mergedAt": "2024-08-10T13:34:14Z",
+      "mergePeriod": "84 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: Fixed sizes for toggle components",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/295",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-06T23:25:47Z",
+      "createdAt": "2024-06-27T14:05:02Z",
+      "mergedAt": null,
+      "mergePeriod": "Closed",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: add positioning options to FwbModal",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/293",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-06T23:07:01Z",
+      "createdAt": "2024-06-22T12:18:42Z",
+      "mergedAt": "2024-08-06T23:07:01Z",
+      "mergePeriod": "45 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Blockquote component",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/311",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-02T22:33:38Z",
+      "createdAt": "2024-07-26T12:45:05Z",
+      "mergedAt": "2024-08-02T22:33:38Z",
+      "mergePeriod": "7 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix dark badge colors",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/302",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-01T21:26:31Z",
+      "createdAt": "2024-07-11T17:16:22Z",
+      "mergedAt": "2024-08-01T21:26:31Z",
+      "mergePeriod": "21 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Missing disabled style and doc code for textarea",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/307",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-01T21:01:36Z",
+      "createdAt": "2024-07-24T13:03:03Z",
+      "mergedAt": "2024-08-01T21:01:36Z",
+      "mergePeriod": "8 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix: select option color fixed ",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/309",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-01T20:53:46Z",
+      "createdAt": "2024-07-25T12:15:38Z",
+      "mergedAt": "2024-08-01T20:53:46Z",
+      "mergePeriod": "7 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "chore: Update dropdown placement and alignment",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/313",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-01T06:38:12Z",
+      "createdAt": "2024-07-29T14:08:12Z",
+      "mergedAt": "2024-08-01T06:38:11Z",
+      "mergePeriod": "3 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feature: datepicker",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/290",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-06-10T13:15:30Z",
+      "createdAt": "2024-06-10T13:14:26Z",
+      "mergedAt": null,
+      "mergePeriod": "Open",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Added HTML attribute: accept in FwbFileInput",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/278",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-29T12:10:58Z",
+      "createdAt": "2024-03-23T04:20:11Z",
+      "mergedAt": "2024-04-29T12:10:58Z",
+      "mergePeriod": "37 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "Fix accordion component calculations and header classes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/262",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-29T12:08:57Z",
+      "createdAt": "2024-01-20T21:00:20Z",
+      "mergedAt": "2024-04-29T12:08:57Z",
+      "mergePeriod": "100 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: dropdown content position does not react to content size",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/277",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-04-29T12:08:29Z",
+      "createdAt": "2024-03-16T08:05:50Z",
+      "mergedAt": "2024-04-29T12:08:29Z",
+      "mergePeriod": "44 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "add a notice about importing css",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/264",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-26T10:36:27Z",
+      "createdAt": "2024-02-06T16:49:10Z",
+      "mergedAt": "2024-02-26T09:36:16Z",
+      "mergePeriod": "20 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix links to documentation of components",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/266",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-02-21T08:47:14Z",
+      "createdAt": "2024-02-06T19:14:39Z",
+      "mergedAt": "2024-02-21T08:47:14Z",
+      "mergePeriod": "15 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "chore: component import fixes",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/259",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-12-18T07:58:04Z",
+      "createdAt": "2023-12-17T07:00:39Z",
+      "mergedAt": "2023-12-18T07:58:04Z",
+      "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: inherit attrs to `Textarea` + fix `Input` label color",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/245",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-21T11:22:26Z",
+      "createdAt": "2023-10-31T02:52:44Z",
+      "mergedAt": "2023-11-21T11:22:26Z",
+      "mergePeriod": "21 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    }
+  ],
+  "collaborations": [
+    {
+      "title": "Modal (a11y - KB): When focus trap is set, clicking `esc` does not close the Modal",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/404",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-10-02T08:41:43Z",
+      "createdAt": "2025-07-25T07:14:53Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Is this package compatible with vue3 and tailwind 4?",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/406",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-09-05T11:11:39Z",
+      "createdAt": "2025-09-04T16:26:54Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Plans for compatibility with Tailwind v4",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/348",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-07-25T10:22:20Z",
+      "createdAt": "2025-02-06T12:17:52Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "How do I build flowbite-vue",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/374",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T18:40:13Z",
+      "createdAt": "2025-04-25T15:38:16Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Button Light Arrangement for Dark Mode",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/380",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-05-06T16:12:51Z",
+      "createdAt": "2025-05-05T11:22:54Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "navbar colors cannot be changed",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/363",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-04-01T06:37:12Z",
+      "createdAt": "2025-04-01T03:25:03Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Documentation incorrect/outdated for stacked avatars",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/352",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-02-21T09:17:14Z",
+      "createdAt": "2025-02-19T08:30:38Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Toast shadow not visible",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/310",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-21T09:29:58Z",
+      "createdAt": "2024-07-25T13:25:02Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "[Documentation] Dropdown close inside example not working",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/332",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-16T06:04:06Z",
+      "createdAt": "2024-11-26T12:22:46Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Progress: The bar has wrong radius in small percentages.",
+      "url": "https://github.com/themesberg/flowbite/issues/439",
+      "repo": "themesberg/flowbite",
+      "date": "2025-01-09T10:07:48Z",
+      "createdAt": "2023-02-08T15:23:24Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "FWBInput does not support v-model.number",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/273",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T18:32:26Z",
+      "createdAt": "2024-03-02T11:04:03Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Position of suffix in Fwb-Input",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/300",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T18:30:32Z",
+      "createdAt": "2024-07-09T06:24:06Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "[Enhancement] Add support for grouping FwbDropdown together with FwbButton in FwbButtonGroup component",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/330",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-01-08T18:21:42Z",
+      "createdAt": "2024-11-26T05:47:15Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "How to make the tooltip stay in the same position horizontally across multiple elements in a container?",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/289",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-09-28T15:32:01Z",
+      "createdAt": "2024-06-03T19:53:48Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "FwbModal vertical position",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/279",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-06T23:07:02Z",
+      "createdAt": "2024-04-25T09:29:42Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "white label not visible in Toggle component",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/297",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-03T00:06:43Z",
+      "createdAt": "2024-07-02T11:13:09Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "component: Blockquote",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/219",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-08-02T22:41:26Z",
+      "createdAt": "2023-09-26T09:28:22Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "[Enhancement] Requesting allowing of adding additional classes to components",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/244",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-06-16T14:59:06Z",
+      "createdAt": "2023-10-30T17:01:39Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Tooltip background is not applying ",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/286",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-06-05T09:13:21Z",
+      "createdAt": "2024-05-27T13:57:30Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "FwbFileInput accept props not working",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/284",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-05-29T08:19:43Z",
+      "createdAt": "2024-05-15T15:34:41Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Button Component not styled if dynamically disabled",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/260",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2024-03-07T11:57:15Z",
+      "createdAt": "2024-01-08T11:57:52Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Off by one error in pagination with table layout",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/246",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-29T11:26:31Z",
+      "createdAt": "2023-11-09T21:40:42Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Trailing space prevents checkout on Windows",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/234",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2023-11-23T08:13:44Z",
+      "createdAt": "2023-10-18T04:24:36Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "DIY Mode Test Tool doesn't find my Sonoff Basic R3",
+      "url": "https://github.com/itead/Sonoff_Devices_DIY_Tools/issues/7",
+      "repo": "itead/Sonoff_Devices_DIY_Tools",
+      "date": "2020-02-05T23:18:22Z",
+      "createdAt": "2019-06-16T17:14:17Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Icon request: icon-infinity (icon-infinite)",
+      "url": "https://github.com/FortAwesome/Font-Awesome/issues/1647",
+      "repo": "FortAwesome/Font-Awesome",
+      "date": "2018-05-10T20:06:32Z",
+      "createdAt": "2013-07-25T13:31:25Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Grunt needs your help!",
+      "url": "https://github.com/gruntjs/grunt/issues/1403",
+      "repo": "gruntjs/grunt",
+      "date": "2016-01-08T17:37:25Z",
+      "createdAt": "2015-11-19T21:16:32Z",
+      "firstCommentedAt": null
+    }
+  ]
+}
