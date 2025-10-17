@@ -891,9 +891,26 @@ async function main() {
 		)
 		console.log("Updated contributions data saved to file.")
 
-		const grouped = groupContributionsByQuarter(finalContributions)
+		// Filter contributions to only include items from SINCE_YEAR onwards
+		const filteredContributions = {
+			pullRequests: [],
+			issues: [],
+			reviewedPrs: [],
+			collaborations: [],
+		}
+
+		for (const type of Object.keys(finalContributions)) {
+			filteredContributions[type] = finalContributions[type].filter((item) => {
+				const itemYear = new Date(item.date).getFullYear()
+				return itemYear >= SINCE_YEAR
+			})
+		}
+
+		console.log(`Filtered contributions to only include data from ${SINCE_YEAR} onwards.`)
+
+		const grouped = groupContributionsByQuarter(filteredContributions)
 		await writeMarkdownFiles(grouped)
-		await createStatsReadme(finalContributions)
+		await createStatsReadme(filteredContributions)
 
 		// Save the updated cache to a file for future runs.
 		await fs.writeFile(
