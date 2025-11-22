@@ -405,6 +405,17 @@
   ],
   "reviewedPrs": [
     {
+      "title": "Clarify relative path in quickstart",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/413",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-11-21T21:34:48Z",
+      "createdAt": "2025-11-21T13:38:04Z",
+      "mergedAt": "2025-11-21T21:34:48Z",
+      "mergePeriod": "0 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
       "title": "Fix FwbInput label/input connection",
       "url": "https://github.com/themesberg/flowbite-vue/pull/405",
       "repo": "themesberg/flowbite-vue",
