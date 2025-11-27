@@ -1078,6 +1078,14 @@
   ],
   "collaborations": [
     {
+      "title": "FwbButton is missing the pointer cursor style on tailwind 4",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/414",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-11-26T18:12:31Z",
+      "createdAt": "2025-11-26T11:45:39Z",
+      "firstCommentedAt": null
+    },
+    {
       "title": "Modal (a11y - KB): When focus trap is set, clicking `esc` does not close the Modal",
       "url": "https://github.com/themesberg/flowbite-vue/issues/404",
       "repo": "themesberg/flowbite-vue",
