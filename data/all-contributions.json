@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "fix/issue 414/button link height mismatch",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/416",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-12-04T14:06:16Z",
+      "mergedAt": "2025-12-04T14:16:34Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feature/improve FwbModal styling",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/415",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-12-04T11:08:03Z",
+      "mergedAt": "2025-12-04T12:49:41Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: release v0.2.2",
       "url": "https://github.com/themesberg/flowbite-vue/pull/410",
       "repo": "themesberg/flowbite-vue",
@@ -1081,8 +1097,16 @@
       "title": "FwbButton is missing the pointer cursor style on tailwind 4",
       "url": "https://github.com/themesberg/flowbite-vue/issues/414",
       "repo": "themesberg/flowbite-vue",
-      "date": "2025-11-27T15:16:17Z",
+      "date": "2025-12-04T14:16:46Z",
       "createdAt": "2025-11-26T11:45:39Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Feature Request: Add header-class prop to <fwb-modal> for customizing modal header wrapper",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/397",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-12-04T12:50:50Z",
+      "createdAt": "2025-06-13T01:59:58Z",
       "firstCommentedAt": null
     },
     {
