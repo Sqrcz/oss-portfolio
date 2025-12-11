@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "feature: enhance FwbButton to support Vue Router navigation",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/417",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-12-04T20:09:51Z",
+      "mergedAt": "2025-12-10T18:07:07Z",
+      "reviewPeriod": 6
+    },
+    {
       "title": "fix/issue 414/button link height mismatch",
       "url": "https://github.com/themesberg/flowbite-vue/pull/416",
       "repo": "themesberg/flowbite-vue",
