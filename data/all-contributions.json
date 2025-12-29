@@ -429,6 +429,17 @@
   ],
   "reviewedPrs": [
     {
+      "title": "fix: read `isMobile` computed value",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/418",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-12-28T18:01:24Z",
+      "createdAt": "2025-12-06T02:42:11Z",
+      "mergedAt": "2025-12-28T11:52:10Z",
+      "mergePeriod": "22 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
       "title": "Clarify relative path in quickstart",
       "url": "https://github.com/themesberg/flowbite-vue/pull/413",
       "repo": "themesberg/flowbite-vue",
