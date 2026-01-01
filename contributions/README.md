@@ -41,4 +41,4 @@ This is a summary of all contributions fetched since the initial tracking year (
 | Category | Total |
 | :--- | :--- |
 | **Unique Repositories** | 4 |
-| **Years Tracked** | 3 |
+| **Years Tracked** | 4 |
