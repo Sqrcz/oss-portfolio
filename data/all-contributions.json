@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "fix: add missing background color to base content classes in FwbAccordion",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/421",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-01-03T14:20:35Z",
+      "mergedAt": "2026-01-04T00:01:20Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Chore  branch conflict tix",
+      "url": "https://github.com/Sqrcz/flowbite-vue/pull/2",
+      "repo": "Sqrcz/flowbite-vue",
+      "date": "2026-01-03T13:25:22Z",
+      "mergedAt": "2026-01-03T13:35:05Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore:  dependency update",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/420",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-01-02T21:18:42Z",
+      "mergedAt": "2026-01-03T14:00:27Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "feature: enhance FwbButton to support Vue Router navigation",
       "url": "https://github.com/themesberg/flowbite-vue/pull/417",
       "repo": "themesberg/flowbite-vue",
