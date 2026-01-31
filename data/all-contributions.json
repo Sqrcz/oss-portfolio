@@ -1137,6 +1137,14 @@
   ],
   "collaborations": [
     {
+      "title": "add ability to override default dropzone placeholder",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/395",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-01-30T22:09:43Z",
+      "createdAt": "2025-06-04T08:59:34Z",
+      "firstCommentedAt": null
+    },
+    {
       "title": "According to the quickstart component has no styles",
       "url": "https://github.com/themesberg/flowbite-vue/issues/424",
       "repo": "themesberg/flowbite-vue",
