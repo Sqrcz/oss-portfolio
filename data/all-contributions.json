@@ -453,6 +453,28 @@
   ],
   "reviewedPrs": [
     {
+      "title": "Export TS types for data used by specific components",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/422",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T01:28:12Z",
+      "createdAt": "2026-01-10T04:28:58Z",
+      "mergedAt": "2026-02-02T01:28:12Z",
+      "mergePeriod": "23 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "fix: only add file once for dropzone with multiple files",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/425",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T01:24:32Z",
+      "createdAt": "2026-01-30T10:59:38Z",
+      "mergedAt": null,
+      "mergePeriod": "Open",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
       "title": "fix: read `isMobile` computed value",
       "url": "https://github.com/themesberg/flowbite-vue/pull/418",
       "repo": "themesberg/flowbite-vue",
