@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "fix: add missing @vue/tsconfig dependency",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/429",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T12:57:07Z",
+      "mergedAt": "2026-02-02T12:58:07Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: update jsdom and data-urls versions, adjust dependencies",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/428",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T12:46:43Z",
+      "mergedAt": "2026-02-02T12:48:15Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore/dependency update",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/427",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T12:34:59Z",
+      "mergedAt": "2026-02-02T12:43:09Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "fix: add missing background color to base content classes in FwbAccordion",
       "url": "https://github.com/themesberg/flowbite-vue/pull/421",
       "repo": "themesberg/flowbite-vue",
@@ -453,6 +477,17 @@
   ],
   "reviewedPrs": [
     {
+      "title": "fix: only add file once for dropzone with multiple files",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/425",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-02T10:41:15Z",
+      "createdAt": "2026-01-30T10:59:38Z",
+      "mergedAt": "2026-02-02T10:41:15Z",
+      "mergePeriod": "3 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
       "title": "Export TS types for data used by specific components",
       "url": "https://github.com/themesberg/flowbite-vue/pull/422",
       "repo": "themesberg/flowbite-vue",
@@ -460,17 +495,6 @@
       "createdAt": "2026-01-10T04:28:58Z",
       "mergedAt": "2026-02-02T01:28:12Z",
       "mergePeriod": "23 days",
-      "myFirstReviewDate": null,
-      "myFirstReviewPeriod": "N/A"
-    },
-    {
-      "title": "fix: only add file once for dropzone with multiple files",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/425",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2026-02-02T01:24:32Z",
-      "createdAt": "2026-01-30T10:59:38Z",
-      "mergedAt": null,
-      "mergePeriod": "Open",
       "myFirstReviewDate": null,
       "myFirstReviewPeriod": "N/A"
     },
