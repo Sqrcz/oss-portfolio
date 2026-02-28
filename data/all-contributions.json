@@ -1199,6 +1199,22 @@
   ],
   "collaborations": [
     {
+      "title": "The alert icons are not rendering. Require \"size-5\" class which is not defined.",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/366",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-27T23:19:11Z",
+      "createdAt": "2025-04-15T18:18:40Z",
+      "firstCommentedAt": null
+    },
+    {
+      "title": "Improve usability of FwbButton as a router-link",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/431",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-27T23:02:52Z",
+      "createdAt": "2026-02-04T12:02:57Z",
+      "firstCommentedAt": null
+    },
+    {
       "title": "Custom colors for Spinner and Progress components",
       "url": "https://github.com/themesberg/flowbite-vue/issues/390",
       "repo": "themesberg/flowbite-vue",
