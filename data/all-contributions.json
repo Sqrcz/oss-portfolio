@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "chore: clean up tooling configuration and add enum labels",
+      "url": "https://github.com/Sqrcz/numerik/pull/3",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-12T22:46:33Z",
+      "mergedAt": "2026-04-12T22:46:54Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Feat/skeleton structure",
+      "url": "https://github.com/Sqrcz/numerik/pull/2",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-12T22:21:31Z",
+      "mergedAt": "2026-04-12T22:22:00Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: add package boilerplate and configuration",
+      "url": "https://github.com/Sqrcz/numerik/pull/1",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-12T21:24:06Z",
+      "mergedAt": "2026-04-12T21:24:19Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: release v0.2.3",
       "url": "https://github.com/themesberg/flowbite-vue/pull/432",
       "repo": "themesberg/flowbite-vue",
