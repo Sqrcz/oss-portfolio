@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore: update package name to match packagist",
+      "url": "https://github.com/Sqrcz/numerik/pull/4",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-14T19:52:30Z",
+      "mergedAt": "2026-04-14T19:52:38Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: clean up tooling configuration and add enum labels",
       "url": "https://github.com/Sqrcz/numerik/pull/3",
       "repo": "Sqrcz/numerik",
