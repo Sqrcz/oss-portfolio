@@ -1,6 +1,70 @@
 {
   "pullRequests": [
     {
+      "title": "feat: add REGON validation and parsing",
+      "url": "https://github.com/Sqrcz/numerik/pull/12",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-16T00:05:23Z",
+      "mergedAt": "2026-04-16T00:06:43Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add KRS validation and parsing",
+      "url": "https://github.com/Sqrcz/numerik/pull/11",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T23:43:38Z",
+      "mergedAt": "2026-04-15T23:45:09Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add NIP validation and parsing",
+      "url": "https://github.com/Sqrcz/numerik/pull/10",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T23:19:57Z",
+      "mergedAt": "2026-04-15T23:25:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: correct PESEL example in README",
+      "url": "https://github.com/Sqrcz/numerik/pull/9",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T23:01:54Z",
+      "mergedAt": "2026-04-15T23:02:34Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: collapse Validators and Parsers into unified Identifiers",
+      "url": "https://github.com/Sqrcz/numerik/pull/8",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T22:35:48Z",
+      "mergedAt": "2026-04-15T22:51:49Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Feat/docs setup",
+      "url": "https://github.com/Sqrcz/numerik/pull/7",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T22:25:03Z",
+      "mergedAt": "2026-04-15T22:26:01Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add documentation site with Starlight and Netlify deployment",
+      "url": "https://github.com/Sqrcz/numerik/pull/6",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-15T22:10:59Z",
+      "mergedAt": "2026-04-15T22:14:06Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add CI/CD pipelines",
+      "url": "https://github.com/Sqrcz/numerik/pull/5",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-14T20:17:51Z",
+      "mergedAt": "2026-04-15T14:14:05Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "chore: update package name to match packagist",
       "url": "https://github.com/Sqrcz/numerik/pull/4",
       "repo": "Sqrcz/numerik",
