@@ -1,6 +1,62 @@
 {
   "pullRequests": [
     {
+      "title": "docs: use consistent approve-check icon across all index cards",
+      "url": "https://github.com/Sqrcz/numerik/pull/19",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T21:01:00Z",
+      "mergedAt": "2026-04-18T21:04:22Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: prepare v1.0.0 release",
+      "url": "https://github.com/Sqrcz/numerik/pull/18",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T16:28:23Z",
+      "mergedAt": "2026-04-18T17:55:40Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: prepare v1.0.0 release",
+      "url": "https://github.com/Sqrcz/numerik/pull/17",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T15:47:35Z",
+      "mergedAt": "2026-04-18T15:49:55Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "test/mutation coverage",
+      "url": "https://github.com/Sqrcz/numerik/pull/16",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T15:40:19Z",
+      "mergedAt": "2026-04-18T15:42:51Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Feat/value object completeness",
+      "url": "https://github.com/Sqrcz/numerik/pull/15",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T13:30:12Z",
+      "mergedAt": "2026-04-18T13:32:48Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: apply PHP 8.3 typed constants and #[Override] attributes",
+      "url": "https://github.com/Sqrcz/numerik/pull/14",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T13:04:03Z",
+      "mergedAt": "2026-04-18T13:15:46Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat/pesel validation",
+      "url": "https://github.com/Sqrcz/numerik/pull/13",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-18T10:34:01Z",
+      "mergedAt": "2026-04-18T10:41:39Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat: add REGON validation and parsing",
       "url": "https://github.com/Sqrcz/numerik/pull/12",
       "repo": "Sqrcz/numerik",
