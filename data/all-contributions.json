@@ -1,6 +1,54 @@
 {
   "pullRequests": [
     {
+      "title": "docs: add GitHub issue and PR templates",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/3",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-19T20:48:46Z",
+      "mergedAt": "2026-04-19T20:51:51Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: add community health files",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/2",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-19T20:46:14Z",
+      "mergedAt": "2026-04-19T20:51:37Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: add repo scaffolding files",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/1",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-19T20:45:08Z",
+      "mergedAt": "2026-04-19T20:51:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: speed up mutation tests with diff filter, threads, and vendor cache",
+      "url": "https://github.com/Sqrcz/numerik/pull/22",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-19T18:17:42Z",
+      "mergedAt": "2026-04-19T18:18:45Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: fix new identifier checklist to reflect actual architecture",
+      "url": "https://github.com/Sqrcz/numerik/pull/21",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-19T18:10:38Z",
+      "mergedAt": "2026-04-19T18:14:31Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: correct PHP version references from 8.2 to 8.3",
+      "url": "https://github.com/Sqrcz/numerik/pull/20",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-19T09:00:34Z",
+      "mergedAt": "2026-04-19T09:15:46Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: use consistent approve-check icon across all index cards",
       "url": "https://github.com/Sqrcz/numerik/pull/19",
       "repo": "Sqrcz/numerik",
