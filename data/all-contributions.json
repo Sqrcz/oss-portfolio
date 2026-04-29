@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "chore(docs): bump astro, starlight, check, and typescript",
+      "url": "https://github.com/Sqrcz/numerik/pull/25",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-28T18:03:08Z",
+      "mergedAt": "2026-04-28T18:09:41Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: add llms.txt support and normalise doc extensions to mdx",
+      "url": "https://github.com/Sqrcz/numerik/pull/24",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-28T17:37:49Z",
+      "mergedAt": "2026-04-28T17:41:20Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: add Laravel integration documentation",
       "url": "https://github.com/Sqrcz/numerik/pull/23",
       "repo": "Sqrcz/numerik",
