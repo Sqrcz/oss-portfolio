@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "chore: prepare release 1.1.0",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/17",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-29T21:24:23Z",
+      "mergedAt": "2026-04-29T21:25:13Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: clean up and organize .gitignore",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/16",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-29T21:21:57Z",
+      "mergedAt": "2026-04-29T21:22:45Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add Polish (pl) translations",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/15",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-29T21:10:24Z",
+      "mergedAt": "2026-04-29T21:12:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: per-reason validation messages for NIP, KRS, and PESEL",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/14",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-29T20:48:56Z",
+      "mergedAt": "2026-04-29T20:59:28Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore(docs): bump astro, starlight, check, and typescript",
       "url": "https://github.com/Sqrcz/numerik/pull/25",
       "repo": "Sqrcz/numerik",
