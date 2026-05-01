@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "chore: prepare release 1.2.0",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/20",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-30T22:08:40Z",
+      "mergedAt": "2026-04-30T22:10:56Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: use Str::ucfirst() for multibyte-safe attribute name capitalisation",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/19",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-30T21:09:00Z",
+      "mergedAt": "2026-04-30T22:06:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: update Laravel integration for numerik-laravel 1.1.x",
+      "url": "https://github.com/Sqrcz/numerik/pull/26",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-30T16:20:22Z",
+      "mergedAt": "2026-04-30T16:22:07Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: resolve human-readable attribute names in validation error messages",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/18",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-04-30T14:10:21Z",
+      "mergedAt": "2026-04-30T14:15:53Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: prepare release 1.1.0",
       "url": "https://github.com/Sqrcz/numerik-laravel/pull/17",
       "repo": "Sqrcz/numerik-laravel",
@@ -407,22 +439,6 @@
       "date": "2025-12-04T20:09:51Z",
       "mergedAt": "2025-12-10T18:07:07Z",
       "reviewPeriod": 6
-    },
-    {
-      "title": "fix/issue 414/button link height mismatch",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/416",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2025-12-04T14:06:16Z",
-      "mergedAt": "2025-12-04T14:16:34Z",
-      "reviewPeriod": 0
-    },
-    {
-      "title": "feature/improve FwbModal styling",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/415",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2025-12-04T11:08:03Z",
-      "mergedAt": "2025-12-04T12:49:41Z",
-      "reviewPeriod": 0
     },
     {
       "title": "chore: release v0.2.2",
@@ -906,17 +922,6 @@
       "myFirstReviewPeriod": "N/A"
     },
     {
-      "title": "feat: Banner components",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/317",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2025-08-30T17:38:56Z",
-      "createdAt": "2024-08-07T13:09:02Z",
-      "mergedAt": null,
-      "mergePeriod": "Closed",
-      "myFirstReviewDate": null,
-      "myFirstReviewPeriod": "N/A"
-    },
-    {
       "title": "Add support for custom colors to `FwbProgress` and `FwbSpinner`",
       "url": "https://github.com/themesberg/flowbite-vue/pull/393",
       "repo": "themesberg/flowbite-vue",
@@ -1181,17 +1186,6 @@
       "myFirstReviewPeriod": "N/A"
     },
     {
-      "title": "fix: Fixed display of 0% inside label in progress bar",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/326",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2025-01-09T10:10:00Z",
-      "createdAt": "2024-09-30T10:49:34Z",
-      "mergedAt": null,
-      "mergePeriod": "Open",
-      "myFirstReviewDate": null,
-      "myFirstReviewPeriod": "N/A"
-    },
-    {
       "title": "fix(alert): make props reactive",
       "url": "https://github.com/themesberg/flowbite-vue/pull/320",
       "repo": "themesberg/flowbite-vue",
@@ -1441,17 +1435,6 @@
       "createdAt": "2024-07-29T14:08:12Z",
       "mergedAt": "2024-08-01T06:38:11Z",
       "mergePeriod": "3 days",
-      "myFirstReviewDate": null,
-      "myFirstReviewPeriod": "N/A"
-    },
-    {
-      "title": "feature: datepicker",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/290",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2024-06-10T13:15:30Z",
-      "createdAt": "2024-06-10T13:14:26Z",
-      "mergedAt": null,
-      "mergePeriod": "Open",
       "myFirstReviewDate": null,
       "myFirstReviewPeriod": "N/A"
     },
