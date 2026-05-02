@@ -17,6 +17,14 @@
       "reviewPeriod": 0
     },
     {
+      "title": "docs: add Polish translations, fix inaccuracies, and improve prose quality",
+      "url": "https://github.com/Sqrcz/numerik/pull/27",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-04-30T16:20:37Z",
+      "mergedAt": "2026-05-01T22:15:14Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "docs: update Laravel integration for numerik-laravel 1.1.x",
       "url": "https://github.com/Sqrcz/numerik/pull/26",
       "repo": "Sqrcz/numerik",
