@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "feat: add VAT-EU and IBAN identifiers",
+      "url": "https://github.com/Sqrcz/numerik/pull/30",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-05T23:15:53Z",
+      "mergedAt": "2026-05-05T23:45:22Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: add CodeRabbit config and badge",
+      "url": "https://github.com/Sqrcz/numerik/pull/29",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-05T21:53:44Z",
+      "mergedAt": "2026-05-05T22:03:09Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add NRB (Polish bank account number) identifier",
+      "url": "https://github.com/Sqrcz/numerik/pull/28",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-05T20:35:38Z",
+      "mergedAt": "2026-05-05T21:40:09Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: prepare release 1.2.0",
       "url": "https://github.com/Sqrcz/numerik-laravel/pull/20",
       "repo": "Sqrcz/numerik-laravel",
