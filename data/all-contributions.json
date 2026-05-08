@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "fix: grant contents write permission to release workflow",
+      "url": "https://github.com/Sqrcz/numerik/pull/34",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-07T22:07:04Z",
+      "mergedAt": "2026-05-07T22:16:57Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v1.1.0",
+      "url": "https://github.com/Sqrcz/numerik/pull/33",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-07T21:57:25Z",
+      "mergedAt": "2026-05-07T22:02:01Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: fix Polish copy in IBAN, NRB, and VAT-EU pages",
+      "url": "https://github.com/Sqrcz/numerik/pull/32",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-07T21:38:57Z",
+      "mergedAt": "2026-05-07T21:39:42Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add ID Card and Passport identifiers",
+      "url": "https://github.com/Sqrcz/numerik/pull/31",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-05-07T21:14:52Z",
+      "mergedAt": "2026-05-07T21:35:42Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat: add VAT-EU and IBAN identifiers",
       "url": "https://github.com/Sqrcz/numerik/pull/30",
       "repo": "Sqrcz/numerik",
