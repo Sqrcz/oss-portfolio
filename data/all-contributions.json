@@ -1,6 +1,54 @@
 {
   "pullRequests": [
     {
+      "title": "ci: rename CI workflow to Tests",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/13",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T20:44:51Z",
+      "mergedAt": "2026-05-13T20:49:13Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: add badges and fix static docs",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/12",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T20:35:53Z",
+      "mergedAt": "2026-05-13T20:42:13Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: add CI and publish workflows",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/11",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T19:32:46Z",
+      "mergedAt": "2026-05-13T20:24:42Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: set Node.js engine requirement and Volta pin",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/10",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T19:28:19Z",
+      "mergedAt": "2026-05-13T19:31:36Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add Zod integration for all 9 identifiers",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/9",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T19:10:34Z",
+      "mergedAt": "2026-05-13T19:24:27Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: add Numerik facade and finalize index exports",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/8",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-05-13T18:56:36Z",
+      "mergedAt": "2026-05-13T19:02:39Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat: NRB + IBAN identifiers",
       "url": "https://github.com/Sqrcz/numerik-js/pull/7",
       "repo": "Sqrcz/numerik-js",
