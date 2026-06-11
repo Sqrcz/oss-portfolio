@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "feature: FwbTextarea - validation, size, accessibility, and attr passthrough",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/436",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-10T21:09:16Z",
+      "mergedAt": "2026-06-10T22:11:05Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "ci: rename CI workflow to Tests",
       "url": "https://github.com/Sqrcz/numerik-js/pull/13",
       "repo": "Sqrcz/numerik-js",
@@ -559,6 +567,14 @@
       "date": "2026-04-12T21:24:06Z",
       "mergedAt": "2026-04-12T21:24:19Z",
       "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: overhaul FwbInput component with size, validation, addon slots, and shared form types",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/433",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-02-28T19:59:43Z",
+      "mergedAt": "2026-06-10T19:51:46Z",
+      "reviewPeriod": 102
     },
     {
       "title": "chore: release v0.2.3",
