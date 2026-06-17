@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "feature: FwbFileInput - validation, size variants, accessibility, and attr passthrough",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/437",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-10T23:03:13Z",
+      "mergedAt": "2026-06-16T17:45:49Z",
+      "reviewPeriod": 6
+    },
+    {
       "title": "feature: FwbTextarea - validation, size, accessibility, and attr passthrough",
       "url": "https://github.com/themesberg/flowbite-vue/pull/436",
       "repo": "themesberg/flowbite-vue",
