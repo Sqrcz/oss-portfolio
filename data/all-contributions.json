@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "refactor: FwbRange - accessibility, validation, size variants, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/440",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-18T20:24:56Z",
+      "mergedAt": "2026-06-18T20:54:12Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: FwbAutocomplete - accessibility, attr passthrough, inputClass, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/439",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-18T18:24:03Z",
+      "mergedAt": "2026-06-18T19:28:24Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: FwbSelect - validation, size variants, accessibility, and attr passthrough",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/438",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-18T16:54:04Z",
+      "mergedAt": "2026-06-18T17:35:43Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feature: FwbFileInput - validation, size variants, accessibility, and attr passthrough",
       "url": "https://github.com/themesberg/flowbite-vue/pull/437",
       "repo": "themesberg/flowbite-vue",
