@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "refactor: FwbCheckbox - accessibility, validation, attr passthrough, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/442",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-19T22:38:45Z",
+      "mergedAt": "2026-06-19T22:57:00Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: FwbToggle - accessibility, validation, attr passthrough, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/441",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-19T21:23:46Z",
+      "mergedAt": "2026-06-19T21:46:53Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "refactor: FwbRange - accessibility, validation, size variants, and docs rewrite",
       "url": "https://github.com/themesberg/flowbite-vue/pull/440",
       "repo": "themesberg/flowbite-vue",
