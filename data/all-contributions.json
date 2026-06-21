@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "refactor: FwbRadio - accessibility, group support, validation, attr passthrough, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/443",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-20T20:15:17Z",
+      "mergedAt": "2026-06-20T20:38:46Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "refactor: FwbCheckbox - accessibility, validation, attr passthrough, and docs rewrite",
       "url": "https://github.com/themesberg/flowbite-vue/pull/442",
       "repo": "themesberg/flowbite-vue",
