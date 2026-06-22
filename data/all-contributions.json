@@ -1,6 +1,46 @@
 {
   "pullRequests": [
     {
+      "title": "docs: systematic review and rewrite of all 39 component pages",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/448",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-21T21:32:57Z",
+      "mergedAt": "2026-06-21T23:05:09Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: replace classnames with useMergeClasses, remove dependency",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/447",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-21T12:18:39Z",
+      "mergedAt": "2026-06-21T15:57:32Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: fix linter warnings",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/446",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-21T11:32:17Z",
+      "mergedAt": "2026-06-21T11:56:19Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: update all dependencies to latest versions",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/445",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-21T10:54:12Z",
+      "mergedAt": "2026-06-21T11:09:06Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: FwbButton - type safety, useMergeClasses, accessibility, and docs rewrite",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/444",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-20T21:24:20Z",
+      "mergedAt": "2026-06-21T09:17:56Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "refactor: FwbRadio - accessibility, group support, validation, attr passthrough, and docs rewrite",
       "url": "https://github.com/themesberg/flowbite-vue/pull/443",
       "repo": "themesberg/flowbite-vue",
