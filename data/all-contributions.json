@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "feat(badge): add pill, border, and dismissible variants",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/450",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-22T17:21:47Z",
+      "mergedAt": "2026-06-22T19:58:34Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: restore Flowbite plugin for Tailwind v4; fix FwbSelect double arrow",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/449",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-22T16:39:22Z",
+      "mergedAt": "2026-06-22T16:49:11Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: systematic review and rewrite of all 39 component pages",
       "url": "https://github.com/themesberg/flowbite-vue/pull/448",
       "repo": "themesberg/flowbite-vue",
