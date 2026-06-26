@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "Unify contributor files and improve README",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/26",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-06-25T20:18:27Z",
+      "mergedAt": "2026-06-25T20:30:34Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "Drop Laravel 11 support (EOL)",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/25",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-06-25T20:00:38Z",
+      "mergedAt": "2026-06-25T20:12:09Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat(badge): add pill, border, and dismissible variants",
       "url": "https://github.com/themesberg/flowbite-vue/pull/450",
       "repo": "themesberg/flowbite-vue",
@@ -1164,6 +1180,17 @@
     }
   ],
   "reviewedPrs": [
+    {
+      "title": "feature: datepicker",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/290",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-06-25T08:31:11Z",
+      "createdAt": "2024-06-10T13:14:26Z",
+      "mergedAt": null,
+      "mergePeriod": "Open",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
     {
       "title": "fix: only add file once for dropzone with multiple files",
       "url": "https://github.com/themesberg/flowbite-vue/pull/425",
