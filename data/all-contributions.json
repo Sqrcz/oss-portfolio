@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "chore(docs): bump dependencies",
+      "url": "https://github.com/Sqrcz/numerik/pull/41",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-06-25T21:28:40Z",
+      "mergedAt": "2026-06-26T11:58:58Z",
+      "reviewPeriod": 1
+    },
+    {
+      "title": "Unify contributor and community files with numerik family",
+      "url": "https://github.com/Sqrcz/numerik/pull/40",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-06-25T21:28:38Z",
+      "mergedAt": "2026-06-26T11:23:25Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "Unify contributor files and improve README",
       "url": "https://github.com/Sqrcz/numerik-laravel/pull/26",
       "repo": "Sqrcz/numerik-laravel",
