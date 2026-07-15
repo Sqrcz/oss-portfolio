@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "ci: add post-build smoke test for dual ESM/CJS build",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/20",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-14T23:09:38Z",
+      "mergedAt": "2026-07-14T23:31:32Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "test: pin the public API's type contract",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/19",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-14T22:30:07Z",
+      "mergedAt": "2026-07-14T22:51:30Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "test: cover the public Numerik facade",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/18",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-14T21:52:05Z",
+      "mergedAt": "2026-07-14T22:01:06Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: add Astro/Starlight docs site",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/17",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-13T22:24:23Z",
+      "mergedAt": "2026-07-14T20:17:51Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "chore(release): 0.3.0",
       "url": "https://github.com/themesberg/flowbite-vue/pull/458",
       "repo": "themesberg/flowbite-vue",
