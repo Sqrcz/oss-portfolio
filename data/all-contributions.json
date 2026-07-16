@@ -1,6 +1,78 @@
 {
   "pullRequests": [
     {
+      "title": "chore: remove unused sharp dependency from docs",
+      "url": "https://github.com/Sqrcz/numerik/pull/47",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-15T22:11:51Z",
+      "mergedAt": "2026-07-15T22:14:03Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: bump dev dependencies",
+      "url": "https://github.com/Sqrcz/numerik/pull/46",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-15T21:50:53Z",
+      "mergedAt": "2026-07-15T21:56:07Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: set packagist homepage to its docs section",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/27",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-07-15T21:24:03Z",
+      "mergedAt": "2026-07-15T21:26:09Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: set packagist homepage to the docs site",
+      "url": "https://github.com/Sqrcz/numerik/pull/45",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-15T21:18:32Z",
+      "mergedAt": "2026-07-15T21:22:55Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: release v1.0.0",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/24",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-15T18:56:28Z",
+      "mergedAt": "2026-07-15T20:07:31Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: enable GFM table rendering in .mdx pages and reformat tables",
+      "url": "https://github.com/Sqrcz/numerik/pull/43",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-15T18:27:37Z",
+      "mergedAt": "2026-07-15T20:07:20Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: throw reason-specific exceptions from parse()",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/23",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-15T17:59:41Z",
+      "mergedAt": "2026-07-15T18:17:33Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "refactor: consolidate reason-to-exception mapping into ValidationFailure",
+      "url": "https://github.com/Sqrcz/numerik/pull/42",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-15T17:59:06Z",
+      "mergedAt": "2026-07-15T18:23:09Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: update dependencies to latest compatible versions",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/22",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-15T16:07:12Z",
+      "mergedAt": "2026-07-15T16:11:59Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "ci: add post-build smoke test for dual ESM/CJS build",
       "url": "https://github.com/Sqrcz/numerik-js/pull/20",
       "repo": "Sqrcz/numerik-js",
