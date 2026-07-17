@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "chore: prepare v1.2.0 release",
+      "url": "https://github.com/Sqrcz/numerik/pull/49",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-16T16:26:47Z",
+      "mergedAt": "2026-07-16T16:27:30Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: fix Strict mode section — strict mode never gated whitespace tolerance",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/27",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-16T15:56:07Z",
+      "mergedAt": "2026-07-16T16:23:29Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: fix Strict Mode section — strict mode never gated whitespace tolerance",
+      "url": "https://github.com/Sqrcz/numerik/pull/48",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-16T15:54:29Z",
+      "mergedAt": "2026-07-16T16:17:57Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: remove unused sharp dependency from docs",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/26",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-15T22:15:47Z",
+      "mergedAt": "2026-07-16T15:56:37Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "chore: remove unused sharp dependency from docs",
       "url": "https://github.com/Sqrcz/numerik/pull/47",
       "repo": "Sqrcz/numerik",
@@ -31,6 +63,14 @@
       "date": "2026-07-15T21:18:32Z",
       "mergedAt": "2026-07-15T21:22:55Z",
       "reviewPeriod": 0
+    },
+    {
+      "title": "chore: point npm homepage at the docs site",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/25",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-07-15T21:13:15Z",
+      "mergedAt": "2026-07-16T15:56:22Z",
+      "reviewPeriod": 1
     },
     {
       "title": "chore: release v1.0.0",
