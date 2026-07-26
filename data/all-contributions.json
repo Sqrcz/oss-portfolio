@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "feat(nuxt): first-party Nuxt module with component/composable auto-import and CSS auto-injection",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/460",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-07-25T20:25:39Z",
+      "mergedAt": "2026-07-25T21:46:23Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat(kbd): add FwbKbd component",
       "url": "https://github.com/themesberg/flowbite-vue/pull/459",
       "repo": "themesberg/flowbite-vue",
