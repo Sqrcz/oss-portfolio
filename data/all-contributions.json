@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore(release): 0.4.0",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/461",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-07-26T17:18:04Z",
+      "mergedAt": "2026-07-26T17:32:34Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "feat(nuxt): first-party Nuxt module with component/composable auto-import and CSS auto-injection",
       "url": "https://github.com/themesberg/flowbite-vue/pull/460",
       "repo": "themesberg/flowbite-vue",
