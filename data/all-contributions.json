@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "ci: split workflows, harden permissions, and tidy CI hygiene",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/463",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-07-27T18:39:49Z",
+      "mergedAt": "2026-07-27T19:05:01Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore(release): 0.4.0",
       "url": "https://github.com/themesberg/flowbite-vue/pull/461",
       "repo": "themesberg/flowbite-vue",
