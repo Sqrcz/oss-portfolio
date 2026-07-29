@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore: update dependencies and refactor package.json scripts",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/464",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-07-27T22:13:45Z",
+      "mergedAt": "2026-07-28T17:10:03Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "ci: split workflows, harden permissions, and tidy CI hygiene",
       "url": "https://github.com/themesberg/flowbite-vue/pull/463",
       "repo": "themesberg/flowbite-vue",
