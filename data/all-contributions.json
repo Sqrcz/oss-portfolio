@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore: harden CI and update dependencies",
+      "url": "https://github.com/Sqrcz/numerik/pull/54",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-07-31T22:02:35Z",
+      "mergedAt": "2026-07-31T22:24:43Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: update dependencies and refactor package.json scripts",
       "url": "https://github.com/themesberg/flowbite-vue/pull/464",
       "repo": "themesberg/flowbite-vue",
@@ -1483,17 +1491,6 @@
       "myFirstReviewPeriod": "N/A"
     },
     {
-      "title": "feature: datepicker",
-      "url": "https://github.com/themesberg/flowbite-vue/pull/290",
-      "repo": "themesberg/flowbite-vue",
-      "date": "2026-06-25T08:31:11Z",
-      "createdAt": "2024-06-10T13:14:26Z",
-      "mergedAt": null,
-      "mergePeriod": "Open",
-      "myFirstReviewDate": null,
-      "myFirstReviewPeriod": "N/A"
-    },
-    {
       "title": "fix: only add file once for dropzone with multiple files",
       "url": "https://github.com/themesberg/flowbite-vue/pull/425",
       "repo": "themesberg/flowbite-vue",
@@ -1567,6 +1564,17 @@
       "createdAt": "2025-09-27T11:59:41Z",
       "mergedAt": "2025-09-28T18:15:52Z",
       "mergePeriod": "1 days",
+      "myFirstReviewDate": null,
+      "myFirstReviewPeriod": "N/A"
+    },
+    {
+      "title": "feat: Banner components",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/317",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2025-08-30T17:38:56Z",
+      "createdAt": "2024-08-07T13:09:02Z",
+      "mergedAt": null,
+      "mergePeriod": "Closed",
       "myFirstReviewDate": null,
       "myFirstReviewPeriod": "N/A"
     },
