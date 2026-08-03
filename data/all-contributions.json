@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "docs: add context7.json for ownership verification",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/29",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-02T17:17:19Z",
+      "mergedAt": "2026-08-02T17:27:36Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: add context7.json for ownership verification",
+      "url": "https://github.com/Sqrcz/numerik/pull/56",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-08-02T16:54:57Z",
+      "mergedAt": "2026-08-02T16:56:23Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: harden CI and update dependencies",
       "url": "https://github.com/Sqrcz/numerik/pull/54",
       "repo": "Sqrcz/numerik",
