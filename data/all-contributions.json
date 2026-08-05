@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "fix: derive PL-prefix formatting from existing getters in VatEu, Nrb",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/30",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-05T00:08:53Z",
+      "mergedAt": "2026-08-05T00:10:50Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: derive Nrb::getFormattedIban() from getIban()",
+      "url": "https://github.com/Sqrcz/numerik/pull/58",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-08-05T00:00:37Z",
+      "mergedAt": "2026-08-05T00:02:03Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: derive VatEu::getFormatted() prefix from getCountryCode()",
+      "url": "https://github.com/Sqrcz/numerik/pull/57",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-08-04T23:53:11Z",
+      "mergedAt": "2026-08-04T23:56:30Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: add context7.json for ownership verification",
       "url": "https://github.com/Sqrcz/numerik-js/pull/29",
       "repo": "Sqrcz/numerik-js",
