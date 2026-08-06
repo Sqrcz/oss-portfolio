@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "refactor: collapse NumerikServiceProvider::boot() rule blocks into a loop",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/28",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-08-05T00:18:22Z",
+      "mergedAt": "2026-08-05T21:06:36Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "fix: derive PL-prefix formatting from existing getters in VatEu, Nrb",
       "url": "https://github.com/Sqrcz/numerik-js/pull/30",
       "repo": "Sqrcz/numerik-js",
