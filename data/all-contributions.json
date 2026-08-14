@@ -1,6 +1,46 @@
 {
   "pullRequests": [
     {
+      "title": "fix(docs): pin exact dependency versions, upgrade astro and starlight",
+      "url": "https://github.com/Sqrcz/numerik/pull/64",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-08-13T22:31:47Z",
+      "mergedAt": "2026-08-13T22:40:34Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: prepare v1.2.1 release",
+      "url": "https://github.com/Sqrcz/numerik/pull/62",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-08-13T22:07:53Z",
+      "mergedAt": "2026-08-13T22:57:22Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: correct repository.url casing to match GitHub owner",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/34",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-13T21:53:36Z",
+      "mergedAt": "2026-08-13T21:57:56Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: prepare release 1.0.1",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/33",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-13T21:44:25Z",
+      "mergedAt": "2026-08-13T21:47:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: bump Node to 24 in publish workflow, update pinned action SHAs",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/32",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-13T21:30:31Z",
+      "mergedAt": "2026-08-13T21:40:38Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "refactor: collapse NumerikServiceProvider::boot() rule blocks into a loop",
       "url": "https://github.com/Sqrcz/numerik-laravel/pull/28",
       "repo": "Sqrcz/numerik-laravel",
