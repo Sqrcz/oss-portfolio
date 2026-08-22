@@ -30,8 +30,8 @@ This is a summary of all contributions fetched since the initial tracking year (
 
 | Category | Total Count |
 | :--- | :--- |
-| **All-Time Contributions** | 🚀 **297** |
-| Merged PRs | 185 |
+| **All-Time Contributions** | 🚀 **298** |
+| Merged PRs | 186 |
 | Reviewed PRs | 63 |
 | Issues | 5 |
 | Collaborations | 44 |

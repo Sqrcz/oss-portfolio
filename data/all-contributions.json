@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "fix: resolve all open dependency vulnerabilities (root + docs)",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/35",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-08-14T09:32:12Z",
+      "mergedAt": "2026-08-21T16:26:24Z",
+      "reviewPeriod": 7
+    },
+    {
       "title": "fix(docs): pin exact dependency versions, upgrade astro and starlight",
       "url": "https://github.com/Sqrcz/numerik/pull/64",
       "repo": "Sqrcz/numerik",
