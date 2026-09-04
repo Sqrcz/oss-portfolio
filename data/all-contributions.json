@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore: update dev and docs dependencies to latest compatible versions",
+      "url": "https://github.com/Sqrcz/numerik/pull/72",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-09-03T20:38:03Z",
+      "mergedAt": "2026-09-03T20:50:15Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "fix: resolve all open dependency vulnerabilities (root + docs)",
       "url": "https://github.com/Sqrcz/numerik-js/pull/35",
       "repo": "Sqrcz/numerik-js",
