@@ -1523,6 +1523,14 @@
   ],
   "issues": [
     {
+      "title": "@import \"flowbite-vue/index.css\" silently breaks consumer's responsive Tailwind utilities (cascade layer collision)",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/465",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-09-08T11:10:01Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
       "title": "Eslint warning: 'ring-3 is not a Tailwind CSS class!'",
       "url": "https://github.com/themesberg/flowbite/issues/1025",
       "repo": "themesberg/flowbite",
