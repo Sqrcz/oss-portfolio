@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "ci: add grouped Dependabot npm updates for root and docs",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/40",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-09-27T15:20:24Z",
+      "mergedAt": "2026-09-27T16:52:00Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: group Dependabot minor and patch updates per ecosystem",
+      "url": "https://github.com/Sqrcz/numerik/pull/84",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-09-27T13:01:09Z",
+      "mergedAt": "2026-09-27T13:55:25Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: cap every job at a 10-minute timeout",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/38",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-09-04T15:50:42Z",
+      "mergedAt": "2026-09-27T14:21:24Z",
+      "reviewPeriod": 23
+    },
+    {
+      "title": "ci: cap every job at a 10-minute timeout",
+      "url": "https://github.com/Sqrcz/numerik/pull/74",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-09-04T15:50:24Z",
+      "mergedAt": "2026-09-27T13:07:44Z",
+      "reviewPeriod": 23
+    },
+    {
       "title": "chore: update dev and docs dependencies to latest compatible versions",
       "url": "https://github.com/Sqrcz/numerik/pull/72",
       "repo": "Sqrcz/numerik",
@@ -1522,6 +1554,14 @@
     }
   ],
   "issues": [
+    {
+      "title": "Worktree sandboxes mount the host .git read-write, so hooks and config written in the container run on the host",
+      "url": "https://github.com/mattpocock/sandcastle/issues/1010",
+      "repo": "mattpocock/sandcastle",
+      "date": "2026-09-27T08:32:06Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
     {
       "title": "@import \"flowbite-vue/index.css\" silently breaks consumer's responsive Tailwind utilities (cascade layer collision)",
       "url": "https://github.com/themesberg/flowbite-vue/issues/465",
