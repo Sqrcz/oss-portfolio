@@ -1,6 +1,38 @@
 {
   "pullRequests": [
     {
+      "title": "docs: format Polish README intro as a blockquote",
+      "url": "https://github.com/Sqrcz/numerik/pull/99",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-10-28T22:40:25Z",
+      "mergedAt": "2026-10-28T22:42:32Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: align README badges with Polish README",
+      "url": "https://github.com/Sqrcz/numerik/pull/98",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-10-28T22:36:37Z",
+      "mergedAt": "2026-10-28T22:38:48Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "docs: align README language switcher with Polish README",
+      "url": "https://github.com/Sqrcz/numerik/pull/97",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-10-28T22:32:38Z",
+      "mergedAt": "2026-10-28T22:34:05Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: update dev and docs dependencies to latest compatible versions",
+      "url": "https://github.com/Sqrcz/numerik/pull/96",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-10-28T21:58:13Z",
+      "mergedAt": "2026-10-28T22:00:21Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "ci: add grouped Dependabot npm updates for root and docs",
       "url": "https://github.com/Sqrcz/numerik-js/pull/40",
       "repo": "Sqrcz/numerik-js",
@@ -18,6 +50,14 @@
     },
     {
       "title": "ci: cap every job at a 10-minute timeout",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/31",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-09-04T15:50:58Z",
+      "mergedAt": "2026-10-29T00:13:28Z",
+      "reviewPeriod": 54
+    },
+    {
+      "title": "ci: cap every job at a 10-minute timeout",
       "url": "https://github.com/Sqrcz/numerik-js/pull/38",
       "repo": "Sqrcz/numerik-js",
       "date": "2026-09-04T15:50:42Z",
@@ -31,6 +71,38 @@
       "date": "2026-09-04T15:50:24Z",
       "mergedAt": "2026-09-27T13:07:44Z",
       "reviewPeriod": 23
+    },
+    {
+      "title": "docs: add Polish README and improve discoverability keywords",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/30",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-09-04T11:56:05Z",
+      "mergedAt": "2026-10-29T00:07:52Z",
+      "reviewPeriod": 55
+    },
+    {
+      "title": "chore: add walidacja keyword for discoverability",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/36",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-09-04T11:54:56Z",
+      "mergedAt": "2026-10-29T00:41:07Z",
+      "reviewPeriod": 55
+    },
+    {
+      "title": "docs: add Polish README and improve discoverability keywords",
+      "url": "https://github.com/Sqrcz/numerik/pull/73",
+      "repo": "Sqrcz/numerik",
+      "date": "2026-09-04T11:54:32Z",
+      "mergedAt": "2026-10-28T21:53:51Z",
+      "reviewPeriod": 54
+    },
+    {
+      "title": "fix: bring RegonRule up to the granular per-reason message pattern",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/29",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-09-03T21:58:44Z",
+      "mergedAt": "2026-10-29T00:17:32Z",
+      "reviewPeriod": 55
     },
     {
       "title": "chore: update dev and docs dependencies to latest compatible versions",
