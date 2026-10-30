@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "chore: update dev and docs dependencies to latest compatible versions",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/46",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-10-29T19:16:32Z",
+      "mergedAt": "2026-10-29T21:09:30Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: format Polish README intro as a blockquote",
       "url": "https://github.com/Sqrcz/numerik/pull/99",
       "repo": "Sqrcz/numerik",
@@ -71,6 +79,14 @@
       "date": "2026-09-04T15:50:24Z",
       "mergedAt": "2026-09-27T13:07:44Z",
       "reviewPeriod": 23
+    },
+    {
+      "title": "docs: add Polish README",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/37",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-09-04T11:59:25Z",
+      "mergedAt": "2026-10-29T17:36:14Z",
+      "reviewPeriod": 55
     },
     {
       "title": "docs: add Polish README and improve discoverability keywords",
