@@ -1,6 +1,22 @@
 {
   "pullRequests": [
     {
+      "title": "chore: prepare release 2.1.0",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/33",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-10-30T19:44:48Z",
+      "mergedAt": "2026-10-30T19:47:13Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix: resolve default messages for string-based rules",
+      "url": "https://github.com/Sqrcz/numerik-laravel/pull/32",
+      "repo": "Sqrcz/numerik-laravel",
+      "date": "2026-10-30T19:35:52Z",
+      "mergedAt": "2026-10-30T19:43:45Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: update dev and docs dependencies to latest compatible versions",
       "url": "https://github.com/Sqrcz/numerik-js/pull/46",
       "repo": "Sqrcz/numerik-js",
