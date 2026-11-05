@@ -1,6 +1,46 @@
 {
   "pullRequests": [
     {
+      "title": "fix(build): drop the UMD/CJS build that injected CSS at import time",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/478",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-05T00:05:12Z",
+      "mergedAt": "2026-11-05T00:13:19Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(file-input): let user hover classes override the file button hover",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/477",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T23:43:49Z",
+      "mergedAt": "2026-11-05T00:03:58Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(css): scope prebuilt CSS to components and use class-based dark mode",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/476",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T23:06:55Z",
+      "mergedAt": "2026-11-04T23:28:10Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "ci: set docs build command for Vercel and Netlify deploys",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/475",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T21:22:06Z",
+      "mergedAt": "2026-11-04T22:08:20Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore: update dependencies",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/474",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T21:02:31Z",
+      "mergedAt": "2026-11-04T21:52:43Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "chore: prepare release 2.1.0",
       "url": "https://github.com/Sqrcz/numerik-laravel/pull/33",
       "repo": "Sqrcz/numerik-laravel",
@@ -1659,6 +1699,62 @@
   ],
   "issues": [
     {
+      "title": "The UMD/CJS build injects the full stylesheet into `document.head` at import time",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/473",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:26Z",
+      "closedAt": "2026-11-05T00:13:20Z",
+      "closingPeriod": 0
+    },
+    {
+      "title": "Base styles from `flowbite/plugin` reference Flowbite 4 semantic color tokens that are never defined",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/472",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:25Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "`package.json`: build tools listed as runtime dependencies, exact pins causing duplicate installs",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/471",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:24Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "The ESM entry inlines every dependency and tree-shakes poorly. Per-component chunks exist but aren't exported",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/470",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:23Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "Provide an exported Tailwind source entry, so consumers don't have to `@source` a hand-written path into `node_modules`",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/469",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:21Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
+      "title": "The prebuilt CSS includes utilities used only by the docs, and compiles `dark:` as a media query",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/468",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:20Z",
+      "closedAt": "2026-11-04T23:28:12Z",
+      "closingPeriod": 0
+    },
+    {
+      "title": "`index.css` ships a full Tailwind build, so it conflicts with the consumer's own Tailwind wherever it is imported",
+      "url": "https://github.com/themesberg/flowbite-vue/issues/467",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-04T18:29:18Z",
+      "closedAt": null,
+      "closingPeriod": "Open"
+    },
+    {
       "title": "Worktree sandboxes mount the host .git read-write, so hooks and config written in the container run on the host",
       "url": "https://github.com/mattpocock/sandcastle/issues/1010",
       "repo": "mattpocock/sandcastle",
@@ -2419,6 +2515,14 @@
     }
   ],
   "collaborations": [
+    {
+      "title": "chore(deps): bump actions/setup-node from 7.0.0 to 7.1.0",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/466",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-05T00:16:36Z",
+      "createdAt": "2026-10-13T12:24:59Z",
+      "firstCommentedAt": null
+    },
     {
       "title": "[Enhancement] Requesting allowing of adding additional classes to components",
       "url": "https://github.com/themesberg/flowbite-vue/issues/244",

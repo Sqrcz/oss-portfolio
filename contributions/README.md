@@ -30,11 +30,11 @@ This is a summary of all contributions fetched since the initial tracking year (
 
 | Category | Total Count |
 | :--- | :--- |
-| **All-Time Contributions** | 🚀 **318** |
-| Merged PRs | 204 |
+| **All-Time Contributions** | 🚀 **331** |
+| Merged PRs | 209 |
 | Reviewed PRs | 63 |
-| Issues | 7 |
-| Collaborations | 44 |
+| Issues | 14 |
+| Collaborations | 45 |
 
 ### Repository Summary
 
