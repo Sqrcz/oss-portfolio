@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "fix(deps): stop installing build tools into consumer apps",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/479",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-05T22:52:28Z",
+      "mergedAt": "2026-11-06T00:00:19Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "fix(build): drop the UMD/CJS build that injected CSS at import time",
       "url": "https://github.com/themesberg/flowbite-vue/pull/478",
       "repo": "themesberg/flowbite-vue",
