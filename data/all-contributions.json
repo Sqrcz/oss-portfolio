@@ -1,6 +1,54 @@
 {
   "pullRequests": [
     {
+      "title": "ci: test on Node 26",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/485",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T22:56:20Z",
+      "mergedAt": "2026-11-11T23:19:37Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat(css): export a Tailwind source entry as flowbite-vue/tailwind.css",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/484",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T20:56:06Z",
+      "mergedAt": "2026-11-11T22:36:48Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(css): style form controls without flowbite/plugin base styles",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/483",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T18:30:57Z",
+      "mergedAt": "2026-11-11T20:06:17Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(css): ship component-only index.css and a separate standalone.css",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/482",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T14:24:02Z",
+      "mergedAt": "2026-11-11T18:10:23Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(build): stop bundling runtime dependencies and export per-component entries",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/481",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T12:47:04Z",
+      "mergedAt": "2026-11-11T13:07:44Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(deps): drop nanoid, lodash-es and @vueuse/integrations",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/480",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T12:08:47Z",
+      "mergedAt": "2026-11-11T12:24:47Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "fix(deps): stop installing build tools into consumer apps",
       "url": "https://github.com/themesberg/flowbite-vue/pull/479",
       "repo": "themesberg/flowbite-vue",
