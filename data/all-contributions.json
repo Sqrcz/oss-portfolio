@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "docs: update the README for the 0.5 CSS setup",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/488",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-12T23:27:21Z",
+      "mergedAt": "2026-11-12T23:36:12Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "fix(package): stop publishing test files",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/487",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-12T22:37:59Z",
+      "mergedAt": "2026-11-12T22:42:06Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "feat: merge custom classes in ButtonGroup, Card, Carousel and Tooltip",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/486",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-11T23:19:41Z",
+      "mergedAt": "2026-11-12T22:56:09Z",
+      "reviewPeriod": 1
+    },
+    {
       "title": "ci: test on Node 26",
       "url": "https://github.com/themesberg/flowbite-vue/pull/485",
       "repo": "themesberg/flowbite-vue",
