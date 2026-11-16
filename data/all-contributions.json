@@ -1,6 +1,14 @@
 {
   "pullRequests": [
     {
+      "title": "ci: pin pnpm via packageManager so Dependabot keeps lockfile overrides",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/51",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-11-15T19:20:49Z",
+      "mergedAt": "2026-11-15T19:24:07Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "docs: update the README for the 0.5 CSS setup",
       "url": "https://github.com/themesberg/flowbite-vue/pull/488",
       "repo": "themesberg/flowbite-vue",
@@ -2595,6 +2603,14 @@
     }
   ],
   "collaborations": [
+    {
+      "title": "chore(deps): bump the docs group across 1 directory with 3 updates",
+      "url": "https://github.com/Sqrcz/numerik-js/pull/50",
+      "repo": "Sqrcz/numerik-js",
+      "date": "2026-11-15T19:32:50Z",
+      "createdAt": "2026-11-11T02:08:05Z",
+      "firstCommentedAt": null
+    },
     {
       "title": "chore(deps): bump actions/setup-node from 7.0.0 to 7.1.0",
       "url": "https://github.com/themesberg/flowbite-vue/pull/466",
