@@ -1,6 +1,30 @@
 {
   "pullRequests": [
     {
+      "title": "chore(release): 0.5.0",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/491",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-19T22:35:15Z",
+      "mergedAt": "2026-11-19T22:48:11Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore(deps): update focus-trap to 8",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/490",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-19T22:25:19Z",
+      "mergedAt": "2026-11-19T22:32:03Z",
+      "reviewPeriod": 0
+    },
+    {
+      "title": "chore(deps): update dev dependencies",
+      "url": "https://github.com/themesberg/flowbite-vue/pull/489",
+      "repo": "themesberg/flowbite-vue",
+      "date": "2026-11-19T22:18:00Z",
+      "mergedAt": "2026-11-19T22:23:27Z",
+      "reviewPeriod": 0
+    },
+    {
       "title": "ci: pin pnpm via packageManager so Dependabot keeps lockfile overrides",
       "url": "https://github.com/Sqrcz/numerik-js/pull/51",
       "repo": "Sqrcz/numerik-js",
